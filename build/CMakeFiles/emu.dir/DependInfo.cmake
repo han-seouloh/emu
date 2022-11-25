@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/neiru/Code/cpp/emu/main.cpp" "CMakeFiles/emu.dir/main.cpp.o" "gcc" "CMakeFiles/emu.dir/main.cpp.o.d"
+  "C:/Users/Chan/Desktop/Programs_Code/emu/main.cpp" "CMakeFiles/emu.dir/main.cpp.obj" "gcc" "CMakeFiles/emu.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.
