@@ -44,9 +44,10 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+#build files
+[Bb]uild
+
 #VScode 
-
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

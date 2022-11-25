@@ -1,3 +1,0 @@
-C:/Users/Chan/Desktop/Programs_Code/emu/build/CMakeFiles/emu.dir
-C:/Users/Chan/Desktop/Programs_Code/emu/build/CMakeFiles/edit_cache.dir
-C:/Users/Chan/Desktop/Programs_Code/emu/build/CMakeFiles/rebuild_cache.dir
